@@ -359,6 +359,8 @@
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
 
+### Paid 
+
 ***
 
 ## ▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)
@@ -450,6 +452,17 @@
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
+
+#### PSD Templates and Images
+* ⭐ **[PSDkeys](https://psdkeys.com)**
+* [godownloads](https://godownloads.net/)
+* [GraphicEX](https://graphicex.com/)
+* [gfxtra31](https://www.gfxtra31.com/)
+* [gfxmountain](https://gfxmountain.com/)
+* [freepsdvn](https://freepsdvn.com)
+* [ae-project](https://ae-project.su)
+* [vfxdownload](https://www.vfxdownload.com)
+* [aeriver](https://www.aeriver.com)
 
 ***
 
